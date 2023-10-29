@@ -1,3 +1,5 @@
+![DALL·E 2023-10-29 23 45 43 - Illustration of a cosmic scene with swirls of pink, blue, and purple nebulae  A distant planet with rings is partially visible on one side  An astrona](https://github.com/CogalTek/CogalTek/assets/91875582/81b4ea78-fea7-41b0-bf29-dfc1b31024f2)
+
 # Development Student at Epitech Rennes 🎓
 
 I am a French student in my 3rd year at Epitech Rennes, with a strong passion for programming and development. Here are some details about me:
