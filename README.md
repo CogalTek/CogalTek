@@ -2,7 +2,7 @@
 
 # Development Student at Epitech Rennes 🎓
 
-I am a French student in my 3rd year at Epitech Rennes, with a strong passion for programming and development. Here are some details about me:
+I am a French student in my 4rd year at Epitech Rennes, with a strong passion for programming and development. Here are some details about me:
 
 ## Programming Languages I Master 🖥️
 
